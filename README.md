@@ -5,7 +5,7 @@
 ---
 
 ### 💡 About Me:
-I'm **Tushar Saini**, a passionate software engineer who loves solving problems through technology. My expertise lies in both **web development** and **app development**, and I'm always eager to learn new things. Currently, I’m diving deep into **Data Structures and Algorithms (DSA)** with a plan to explore different languages for DSA in the future.
+I'm **Tushar Saini**, a passionate software engineer who loves solving problems through technology. My expertise spans **web development**, **app development**, and I’m actively sharpening my knowledge in **Java** and **Data Structures and Algorithms (DSA)**.
 
 I believe in building projects that **solve real-world problems**, and I’m always up for collaborating with like-minded developers. 🚀
 
@@ -16,6 +16,7 @@ I believe in building projects that **solve real-world problems**, and I’m alw
 #### **Programming Languages:**
 - Python 🐍
 - C 💻
+- Java (Basics) ☕
 - JavaScript ⚡
 - PHP 🌐
 
@@ -23,7 +24,9 @@ I believe in building projects that **solve real-world problems**, and I’m alw
 - **Frontend:**
   - HTML, CSS 🎨
   - Bootstrap, JavaScript, jQuery 🖥️
+  - React.js ⚛️
 - **Backend:**
+  - Node.js, Express.js 🔁
   - PHP, MySQL, SQL 💾
 
 #### **App Development:**
@@ -38,23 +41,25 @@ I believe in building projects that **solve real-world problems**, and I’m alw
 ---
 
 ### 🚀 Currently Working On:
-- **Data Structures and Algorithms (DSA)** in C (with plans to expand to other languages soon!).
-- **Web & App Projects:** Building scalable and efficient web apps with **PHP** and **Flutter**.
-- **Contract Farming Platform:** Developing a platform to connect farmers with buyers for secured contract farming agreements. 🌾
+- **Data Structures and Algorithms (DSA)** in C and Java.
+- **Full-Stack Web Projects** using **React.js (frontend)** and **Node.js/Express.js (backend)**.
+- **Contract Farming Platform:** Connecting farmers and buyers through secure agreements. 🌾
 
 ---
 
 ### 🏆 Achievements:
 - Completed a **web development internship** at Expert IT Brains Pvt. Ltd.
 - Created a **real-time chat application** connecting doctors and patients using PHP and MySQL.
-- Currently developing an **e-commerce platform** for farmers to sell their crops directly to buyers.
+- Developed full-stack projects using **React** and **Node.js**, including e-commerce and food delivery platforms.
 
 ---
 
 ### 🌱 What I’m Learning:
-- **DSA in C** (Focusing on arrays, linked lists, and trees 🌳).
-- Exploring **new libraries** in **Flutter** for building better mobile apps.
-- Enhancing my **backend skills** with advanced **PHP** techniques.
+- **Java Programming Basics** (OOP, arrays, constructors, and more).
+- Deepening my understanding of **DSA** concepts like linked lists, stacks, and trees 🌳.
+- Building REST APIs and scalable backend services with **Node.js** and **Express**.
 
 ---
-Feel free to **reach out** for collaborations, open-source projects, or just to chat about tech! 😊
+
+💬 Feel free to **connect** for collaborations, open-source projects, or just to chat about tech! 😊
+"""
