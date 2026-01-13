@@ -14,23 +14,22 @@ I believe in building projects that **solve real-world problems**, and I’m alw
 ### 💻 Technical Skills:
 
 #### **Programming Languages:**
-- Python 🐍
-- C 💻
-- Java (Basics) ☕
-- JavaScript ⚡
-- PHP 🌐
+- Java
+- Python
+- C
+- JavaScript
+- PHP
 
 #### **Web Development:**
 - **Frontend:**
-  - HTML, CSS 🎨
-  - Bootstrap, JavaScript, jQuery 🖥️
-  - React.js ⚛️
+  - HTML, CSS
+  - Bootstrap, JavaScript, jQuery
+  - React.js
 - **Backend:**
-  - Node.js, Express.js 🔁
+  - Node.js, Express.js 
   - PHP, MySQL, SQL 💾
 
 #### **App Development:**
-- **Flutter** 📱
 - **FlutterFlow** 🚀
 
 #### **Tools & Platforms:**
