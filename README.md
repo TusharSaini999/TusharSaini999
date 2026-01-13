@@ -27,22 +27,22 @@ I believe in building projects that **solve real-world problems**, and I’m alw
   - React.js
 - **Backend:**
   - Node.js, Express.js 
-  - PHP, MySQL, SQL 💾
+  - PHP, MySQL, SQL
 
 #### **App Development:**
-- **FlutterFlow** 🚀
+- **FlutterFlow**
 
 #### **Tools & Platforms:**
-- Git & GitHub 🛠️
-- Visual Studio Code, Sublime Text 👨‍💻
-- Postman (API testing) 📡
+- Git & GitHub
+- Visual Studio Code, Sublime Text
+- Postman (API testing)
 
 ---
 
 ### 🚀 Currently Working On:
 - **Data Structures and Algorithms (DSA)** in C and Java.
 - **Full-Stack Web Projects** using **React.js (frontend)** and **Node.js/Express.js (backend)**.
-- **Contract Farming Platform:** Connecting farmers and buyers through secure agreements. 🌾
+- **Contract Farming Platform:** Connecting farmers and buyers through secure agreements.
 
 ---
 
@@ -55,7 +55,7 @@ I believe in building projects that **solve real-world problems**, and I’m alw
 
 ### 🌱 What I’m Learning:
 - **Java Programming Basics** (OOP, arrays, constructors, and more).
-- Deepening my understanding of **DSA** concepts like linked lists, stacks, and trees 🌳.
+- Deepening my understanding of **DSA** concepts like linked lists, stacks, and trees.
 - Building REST APIs and scalable backend services with **Node.js** and **Express**.
 
 ---
