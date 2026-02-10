@@ -1,35 +1,10 @@
 <svg width="240" height="70" viewBox="0 0 240 70" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .portfolio-btn {
-      cursor: pointer;
-      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-      transform-box: fill-box;
-      transform-origin: center;
-    }
-
-    /* Hover Lift Glow */
-    .portfolio-btn:hover {
-      transform: translateY(-4px);
-    }
-
-    .portfolio-btn:hover .btn-rect {
-      filter: url(#glow);
-    }
-
-    /* Icon Animation */
-    .btn-icon {
-      transition: transform 0.3s ease;
-    }
-    .portfolio-btn:hover .btn-icon {
-      transform: scale(1.1) rotate(-3deg);
-    }
-  </style>
 
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff74fa"/>
-      <stop offset="50%" stop-color="#f755d1"/>
-      <stop offset="100%" stop-color="#bd5de0"/>
+      <stop offset="0%" stop-color="#fa74ff"/>
+      <stop offset="50%" stop-color="#c955f7"/>
+      <stop offset="100%" stop-color="#e855fc"/>
     </linearGradient>
     
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
