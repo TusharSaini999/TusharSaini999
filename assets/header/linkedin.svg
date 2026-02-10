@@ -1,0 +1,40 @@
+<svg width="240" height="70" viewBox="0 0 240 70" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="linkedinGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ab4cff"/> <stop offset="50%" stop-color="#9200e0"/> <stop offset="100%" stop-color="#00a0b5e2"/> </linearGradient>
+    
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" />
+      <feOffset dx="0" dy="2" />
+      <feComponentTransfer><feFuncA type="linear" slope="0.3"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" />
+      <feComponentTransfer><feFuncA type="linear" slope="0.4"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <g class="portfolio-btn">
+    <rect class="btn-rect" x="10" y="10" width="220" height="50" rx="12" ry="12" fill="url(#linkedinGrad)" filter="url(#shadow)" />
+
+    <g transform="translate(48, 25)">
+      <g class="btn-icon" fill="white">
+        <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" transform="scale(0.7) translate(0, -2)"/>
+      </g>
+
+      <text x="90" y="15" 
+            font-family="'Inter', 'Segoe UI', sans-serif" 
+            font-size="14" 
+            font-weight="700" 
+            fill="white" 
+            text-anchor="middle"
+            style="pointer-events: none; letter-spacing: 0.5px;">
+        LINKEDIN
+      </text>
+    </g>
+  </g>
+</svg>
