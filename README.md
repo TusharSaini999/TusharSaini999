@@ -29,7 +29,7 @@
   <img src="assets/header/portfolio.svg"  width="150"/>
 </a>
 
-<a href="https://www.linkedin.com/in/tushar-saini-105865373/" target="_blank">
+<a href="https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=tushar-saini-105865373" target="_blank">
   <img src="assets/header/linkedin.svg"  width="150"/>
 </a>
 
