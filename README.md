@@ -25,7 +25,7 @@
 <!-- ================= Social Buttons ================= -->
 <p align="center">
 
-<a href="https://tusharsainidev.vercel.app/" target="_blank">
+<a href="https://tusharsaini.tech/" target="_blank">
   <img src="assets/header/portfolio.svg"  width="150"/>
 </a>
 
