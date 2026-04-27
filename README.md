@@ -25,12 +25,12 @@
 <!-- ================= Social Buttons ================= -->
 <p align="center">
 
-<a href="https://tusharsaini.tech/" target="_blank">
+<a href="https://tusharsaini.tech/" target="_blank" rel="noopener noreferrer">
   <img src="assets/header/portfolio.svg"  width="150"/>
 </a>
 
-<a href="https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=tushar-saini-105865373" target="_blank">
-  <img src="assets/header/linkedin.svg"  width="150"/>
+<a href="https://www.linkedin.com/in/tusharsaini999/" target="_blank" rel="noopener noreferrer">
+  <img src="assets/header/linkedin.svg" width="150" alt="LinkedIn Profile"/>
 </a>
 
 <a href="mailto:tusharsaini.in@gmail.com">
