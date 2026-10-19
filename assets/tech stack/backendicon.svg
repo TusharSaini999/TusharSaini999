@@ -19,9 +19,9 @@
     </g>
   </g>
 
-  <g transform="translate(0, 300)">
+  <g transform="translate(300, 300)">
     <rect width="256" height="256" fill="#242938" rx="60"/>
-    <g transform="translate(53, 55)">
+    <g transform="translate(58, 55)">
       <path d="M25 85C11.1929 85 0 73.8071 0 60C0 47.903 8.55243 37.8016 19.897 35.4526C22.6789 15.3995 39.8805 0 60.5 0C77.4206 0 91.9546 10.3204 98.0268 25.0454C102.392 22.148 107.568 20.5 113 20.5C127.912 20.5 140 32.5883 140 47.5C140 62.4117 127.912 74.5 113 74.5H105" 
             stroke="#00D1FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
       <g transform="translate(43, 50)">

@@ -43,15 +43,15 @@
 <p align="center">
 
 <a href="https://github.com/TusharSaini999">
-  <img src="https://img.shields.io/github/followers/TusharSaini999?label=Followers&style=for-the-badge&logo=github&color=8B5CF6" />
+  <img src="./assets/header/followers.svg" alt="Followers" />
 </a>
 
 <a href="https://github.com/TusharSaini999">
-  <img src="https://img.shields.io/github/stars/TusharSaini999?label=Stars&style=for-the-badge&logo=github&color=8B5CF6" />
+  <img src="./assets/header/stars.svg" alt="Stars" />
 </a>
 
 <img 
-  src="https://komarev.com/ghpvc/?username=TusharSaini999&label=Profile+Views&style=for-the-badge&color=8B5CF6"
+  src="./assets/header/views.svg" alt="Profile Views"
 />
 </p>
 </div>
@@ -72,7 +72,7 @@
     "role": "Software Engineer",
     "location": "India 🇮🇳",
 
-    "focus": ["Full Stack Development","DSA","AI & Machine Learning","Scalable Architecture"],
+    "focus": ["Full Stack Development", "DSA", "AI & Machine Learning", "AWS Cloud", "Scalable Architecture"],
 
     "mindset": "Always Learning • Always Improving • Always Building ",
     "status": "Open to Opportunities"
@@ -119,7 +119,22 @@
   </td>
 
   <td align="center" width="300">
-    <img src="./assets/tech stack/toolscloud.svg" alt="Tools and Cloud" width="200" />
+    <img src="./assets/tech stack/cloud.svg" alt="AWS Cloud" width="200" />
+    <br>
+    <img src="./assets/tech stack/cloudicon.svg" alt="ICON" width="160" />
+  </td>
+</table>
+
+<table align="center" width="600">
+<tr>
+  <td align="center" width="300">
+    <img src="./assets/tech stack/devops.svg" alt="DevOps" width="200" />
+    <br>
+    <img src="./assets/tech stack/devopsicon.svg" alt="ICON" width="160" />
+  </td>
+
+  <td align="center" width="300">
+    <img src="./assets/tech stack/toolscloud.svg" alt="Tools & Platforms" width="200" />
     <br>
     <img src="./assets/tech stack/toolsicon.svg" alt="ICON" width="160" />
   </td>
@@ -133,7 +148,7 @@
 </h3>
 <p align="center">
   <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteColor=bb7dfa&fontSize=18"
+    src="./assets/activitie/quote.svg"
     alt="Tech Quote"
     width="70%"
   />

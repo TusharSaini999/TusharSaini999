@@ -1,0 +1,18 @@
+<svg width="700" height="130" viewBox="0 0 700 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="130" rx="14" fill="#1A1B27" stroke="#2F334D" stroke-width="1.5"/>
+  
+  <!-- Decorative Quote Mark -->
+  <text x="25" y="52" font-family="Georgia, serif" font-size="50" fill="#BF91F3" opacity="0.4">“</text>
+  
+  <!-- Quote Text -->
+  <text x="55" y="42" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="16" font-style="italic" fill="#BB7DFA" letter-spacing="0.3px">
+    <tspan x="55" dy="0">"The efficiency of the code decreases with an increase in the number</tspan>
+    <tspan x="55" dy="24">of people working on the program. The most efficient programs</tspan>
+    <tspan x="55" dy="24">are written by a single person."</tspan>
+  </text>
+  
+  <!-- Author -->
+  <text x="665" y="112" text-anchor="end" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#70A5FD">
+    — Charles Simonyi
+  </text>
+</svg>
