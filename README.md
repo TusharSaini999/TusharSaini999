@@ -79,12 +79,6 @@
   }
 }
 ```
-<div align="center">
-<!-- Profile Summary Card --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharSaini999&theme=tokyonight" alt="GitHub Profile Summary Card" width="90%" />
-</div>
-
-
-
 
 <!-- Tech stack-->
 <h3 align="center">
@@ -131,33 +125,6 @@
   </td>
 </tr>
 </table>
-<table width="100%" border="0%" align="center">
-<tr>
-
-<td align="center" width="50%">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TusharSaini999&theme=transparent" alt="Repos Per Language" />
-
-</td>
-
-<td align="center" width="50%">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TusharSaini999&theme=transparent" alt="Most Commit Language" />
-
-</td>
-
-</tr>
-</table>
-
-
-
-<!-- Github -->
-<h3 align="center">
-<img src="./assets/activitie/github.svg" alt="ICON" width="200" />
-</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharSaini999&bg_color=00000000&color=bd5de0&line=ff74fa&point=f755d1&area=true&hide_border=true&area_color=bd5de0" width="100%" alt="Tushar Saini GitHub Activity Graph" />
-</p>
 
 
 <!--Thought-->
