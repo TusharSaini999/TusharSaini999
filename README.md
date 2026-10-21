@@ -86,19 +86,19 @@
 </h3>
 <table align="center" width="900">
 <tr>
-  <td align="center" width="300">
+  <td align="center" colspan="2" width="300">
     <img src="./assets/tech stack/language.svg" alt="Language" width="200" />
     <br>
     <img src="./assets/tech stack/languageicon.svg" alt="ICON" width="160" />
   </td>
 
-  <td align="center" width="300">
+  <td align="center" colspan="2" width="300">
     <img src="./assets/tech stack/frontend.svg" alt="Frontend" width="200" />
     <br>
     <img src="./assets/tech stack/frontendicon.svg" alt="ICON" width="160" />
   </td>
 
-  <td align="center" width="300">
+  <td align="center" colspan="2" width="300">
     <img src="./assets/tech stack/backend.svg" alt="Backend" width="200" />
     <br>
     <img src="./assets/tech stack/backendicon.svg" alt="ICON" width="160" />
@@ -106,34 +106,33 @@
 </tr>
 
 <tr>
-  <td align="center" width="300">
+  <td align="center" colspan="2" width="300">
     <img src="./assets/tech stack/database.svg" alt="Database" width="200" />
     <br>
     <img src="./assets/tech stack/databaseicon.svg" alt="ICON" width="160" />
   </td>
 
-  <td align="center" width="300">
+  <td align="center" colspan="2" width="300">
     <img src="./assets/tech stack/ai.svg" alt="AI/ML" width="200" />
     <br>
     <img src="./assets/tech stack/aiicon.svg" alt="ICON" width="160" />
   </td>
 
-  <td align="center" width="300">
+  <td align="center" colspan="2" width="300">
     <img src="./assets/tech stack/cloud.svg" alt="AWS Cloud" width="200" />
     <br>
     <img src="./assets/tech stack/cloudicon.svg" alt="ICON" width="160" />
   </td>
-</table>
+</tr>
 
-<table align="center" width="600">
 <tr>
-  <td align="center" width="300">
+  <td align="center" colspan="3" width="450">
     <img src="./assets/tech stack/devops.svg" alt="DevOps" width="200" />
     <br>
     <img src="./assets/tech stack/devopsicon.svg" alt="ICON" width="160" />
   </td>
 
-  <td align="center" width="300">
+  <td align="center" colspan="3" width="450">
     <img src="./assets/tech stack/toolscloud.svg" alt="Tools & Platforms" width="200" />
     <br>
     <img src="./assets/tech stack/toolsicon.svg" alt="ICON" width="160" />
